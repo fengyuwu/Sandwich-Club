@@ -20,8 +20,8 @@ App Screenshot
 
 
 
-![alt text](https://github.com/fengyuwu/Sandwich-Club/blob/master/Screenshot_1531099754.png ) 
+![alt text](https://github.com/fengyuwu/Sandwich-Club/blob/master/screenshot/2.png) 
 
 
 
-![alt text](https://github.com/fengyuwu/Sandwich-Club/blob/master/Screenshot_1531099742.png )
+![alt text](https://github.com/fengyuwu/Sandwich-Club/blob/master/screenshot/3.png)
