@@ -15,7 +15,7 @@ Getting Started
 This project is an implementation of a mobile app that help user to make sandwich.
 
 
-App Screenshot
+App Screenshots
 ---------------
 
 
